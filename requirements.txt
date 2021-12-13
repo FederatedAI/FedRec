@@ -61,7 +61,7 @@ kiwisolver==1.0.1
 librosa==0.5.1
 llvmlite==0.25.0
 lmdb==0.94
-lxml==4.2.5
+lxml==4.6.5
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==3.0.2
