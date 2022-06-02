@@ -31,7 +31,7 @@ greenlet==0.4.15
 grpcio==1.22.0
 grpcio-tools==1.22.0
 h5py==2.7.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.7
 ipykernel==4.6.1
 ipython==6.5.0
