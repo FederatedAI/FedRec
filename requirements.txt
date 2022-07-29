@@ -65,7 +65,7 @@ lxml==4.2.5
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==3.0.2
-mistune==0.8.3
+mistune==2.0.3
 multiprocess==0.70.6.1
 nbconvert==5.3.1
 nbformat==4.4.0
